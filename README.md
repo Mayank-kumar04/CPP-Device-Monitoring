@@ -215,9 +215,9 @@ WARNING: High pressure detected!
 
 ## Author
 
-**Abhinav Jha**
+**Mayank Kumar**
 
-M.Tech Computer Science and Engineering
-NIT Silchar
+B.Tech Computer Science and Engineering
+Lovely Professional University
 
 
